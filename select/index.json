@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "PHOENIX",
+  "base_artist": "鐘 嵐珠 (CV.法元明菜)",
+  "createdAt": "2025-12-14T06:06:34.594104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "By The Time I Get To Phoenix",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/01_By_The_Time_I_Get_To_Phoenix_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "By The Time I Get To Phoenix (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_By_The_Time_I_Get_To_Phoenix_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Phoenix",
+      "artist": "Aoife O'Donovan",
+      "has_synced": false,
+      "path": "select/03_Phoenix_Aoife_O'Donovan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "O Superman - Live at the Phoenix Festival, Long Marston, 20th July, 1997",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_O_Superman_-_Live_at_the_Phoenix_Festival,_Long_Marston,_20th_July,_1997_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reaching - vocals by Golden Phoenix",
+      "artist": "ZHU",
+      "has_synced": false,
+      "path": "select/05_Reaching_-_vocals_by_Golden_Phoenix_ZHU.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Phoenix",
+      "artist": "The Year Zero",
+      "has_synced": false,
+      "path": "select/06_Phoenix_The_Year_Zero.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Phoenix",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/07_Phoenix_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Phoenix",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/08_Phoenix_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "By the Time I Get to Phoenix (2009 Remaster)",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/09_By_the_Time_I_Get_to_Phoenix_(2009_Remaster)_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "By The Time I Get To Phoenix",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/10_By_The_Time_I_Get_To_Phoenix_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flames) (Kay Cee Laidback edit)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/11_Troy_(The_Phoenix_From_the_Flames)_(Kay_Cee_Laidback_edit)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix from the Flame) (Kay Cee Power mix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/12_Troy_(The_Phoenix_from_the_Flame)_(Kay_Cee_Power_mix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flame) (Andi Durrant remix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/13_Troy_(The_Phoenix_From_the_Flame)_(Andi_Durrant_remix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flame) (John Creamer & Stephane K remix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/14_Troy_(The_Phoenix_From_the_Flame)_(John_Creamer_&_Stephane_K_remix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flame) (Push remix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/15_Troy_(The_Phoenix_From_the_Flame)_(Push_remix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Troy [The Phoenix From the Flame] (Rob Searle edit)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/16_Troy_[The_Phoenix_From_the_Flame]_(Rob_Searle_edit)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kelly Watch the Stars (American Girls Remix by Phoenix)",
+      "artist": "Air",
+      "has_synced": false,
+      "path": "select/17_Kelly_Watch_the_Stars_(American_Girls_Remix_by_Phoenix)_Air.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PHOENIX",
+      "artist": "鐘嵐珠(法元明菜)",
+      "has_synced": false,
+      "path": "select/pl_01_PHOENIX_鐘嵐珠(法元明菜).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PHOENIX (MOVIE size)～Stellar Stream (MOVIE size)",
+      "artist": "鐘嵐珠(法元明菜)",
+      "has_synced": false,
+      "path": "select/pl_02_PHOENIX_(MOVIE_size)~Stellar_Stream_(MOVIE_size)_鐘嵐珠(法元明菜).txt"
+    }
+  ]
+}
